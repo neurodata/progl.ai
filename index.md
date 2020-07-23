@@ -25,7 +25,7 @@ Starting 7/29/2020, a seminar series will be held weekly on Wednesdays at noon E
 - Joshua T. Vogelstein <sup>1</sup>
 - Carey E. Priebe <sup>1</sup>
 - Gabriel Silva
-- Florian <sup>3</sup>
+- Florian Engert <sup>3</sup>
 - Alysson R. Muotri <sup>2</sup>
 - Elizabeth Hillman <sup>4</sup>
 - Alena Savonenko
@@ -41,6 +41,11 @@ Starting 7/29/2020, a seminar series will be held weekly on Wednesdays at noon E
 - Christopher M. White <sup>5</sup>
 - et al.
 
+<sup>1</sup> Johns Hopkins University
+<sup>2</sup> University of California San Diego
+<sup>3</sup> Harvard University
+<sup>4</sup> Columbia University
+<sup>5</sup> Microsoft Research
 ### This initiative is coordinated by the NeuroData lab at Johns Hopkins University.
 
 
