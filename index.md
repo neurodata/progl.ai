@@ -55,7 +55,7 @@ Starting 7/29/2020, a seminar series called "Brains to Bits" will be held weekly
 
 - Puppo F, Pré D, Bang A, Silva GA. Super-selective reconstruction of causal and direct connectivity with application to in-vitro iPSC neuronal networks. bioRxiv. 2020. p. 2020.04.28.067124. doi:10.1101/2020.04.28.067124
 
-- Mallik U, Vogelstein RJ, Culurciello E, Etienne-Cummings R, Cauwenberghs G. A Real-Time Spike-Domain Sensory Information Processing System. 2005 IEEE International Symposium on Circuits and Systems. doi:10.1109/iscas.2005.1464988
+- Vogelstein RJ, Mallik U, Culurciello E, Cauwenberghs G, Etienne-Cummings R. Saliency-Driven Image Acuity Modulation on a Reconfigurable Array of Spiking Silicon Neurons. In: Saul LK, Weiss Y, Bottou L, editors. Advances in Neural Information Processing Systems 17. MIT Press; 2005. pp. 1457–1464.
 
 
 
