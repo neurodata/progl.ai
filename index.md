@@ -7,9 +7,9 @@ Transmedia: across learning agents (i.e. both machine learning and biological le
 Progressive Learning: "agents learn progressively whenever they leverage data to 
 improve performance on both previously met, and as yet unmet tasks, with resource constraints" [1](http://arxiv.org/abs/2004.12908) 
 
-## Weekly Seminar Series
+## Weekly Seminar Series: Brains to Bits
 
-Starting 7/29/2020, a seminar series will be held weekly on Wednesdays at noon ET via Zoom. More details TBA.
+Starting 7/29/2020, a seminar series called "Brains to Bits" will be held weekly on Wednesdays at noon ET via Zoom. More details TBA.
 
 ## Progressive Learning for ML
 
@@ -57,7 +57,7 @@ Starting 7/29/2020, a seminar series will be held weekly on Wednesdays at noon E
 
 - Puppo F, Pré D, Bang A, Silva GA. Super-selective reconstruction of causal and direct connectivity with application to in-vitro iPSC neuronal networks. bioRxiv. 2020. p. 2020.04.28.067124. doi:10.1101/2020.04.28.067124
 
-
+- Mallik U, Vogelstein RJ, Culurciello E, Etienne-Cummings R, Cauwenberghs G. A Real-Time Spike-Domain Sensory Information Processing System. 2005 IEEE International Symposium on Circuits and Systems. doi:10.1109/iscas.2005.1464988
 
 
 
