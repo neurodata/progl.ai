@@ -68,4 +68,4 @@ Starting 7/29/2020, a seminar series called "Brains to Bits" will be held weekly
 
 
 ## Contact Information
-Please direct questions to [Prof. Joshua Vogelstein](mailto:jovo@progl.ai).
+Please direct questions to [Joshua Vogelstein](mailto:jovo@progl.ai).
