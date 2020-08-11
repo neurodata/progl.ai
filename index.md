@@ -64,3 +64,8 @@ Starting 7/29/2020, a seminar series called "Brains to Bits" will be held weekly
 ## Citations
 
 [1] Vogelstein JT, Helm HS, Mehta RD, Dey J, Yang W, Tower B, et al. A general approach to progressive learning. arXiv [cs.AI]. 2020. Available: http://arxiv.org/abs/2004.12908
+
+
+
+## Contact Information
+Please direct questions to [Prof. Joshua Vogelstein](mailto:jovo@progl.ai).
