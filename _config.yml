@@ -1,8 +1,8 @@
-title: Progl.ai
+title: Progressive Learning
 description: 
 google_analytics: 
 show_downloads: true
-remote_theme: Grayscale
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
