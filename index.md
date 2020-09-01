@@ -1,8 +1,16 @@
-The Learning Salon: Fridays starting Sept. 4, 4 pm Eastern, [Crowdcast](https://www.crowdcast.io/e/learningsalon/)
+## The Learning Salon: Fridays starting Sept. 4, 4 pm Eastern, [Crowdcast](https://www.crowdcast.io/e/learningsalon/)
 
 Also livestreamed to YouTube at the [World Wide Neuro](https://www.youtube.com/channel/UCRtCI0-aWSVcS4_qM6yGS7g) and Progressive Learning channels.
 
 [World Wide Neuro](https://www.worldwideneuro.com/)
+
+## Schedule
+
+Friday, Sept. 4, 2020, 4 PM ET - Joshua Vogelstein, Ida Momennejad, and John Krakauer
+
+Friday, Sept. 11, 2020, 4 PM ET - Konrad Kording
+
+## About the Learning Salon
 
 We are pleased to invite you to be our guest on The Learning Salon, hosted by Joshua, Ida and John. The Learning Salon is an intellectual gathering where we explore contentions and bridges between biological and artificial learning. Each week we invite a guest to help us uncover core questions that lurk underneath the overwhelming proliferation of approaches to learning and intelligence. 
 
