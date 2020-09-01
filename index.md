@@ -1,3 +1,6 @@
+The Learning Salon: Sept. 4, 4 pm Eastern, https://www.crowdcast.io/e/learningsalon/1
+Also livecast to YouTube
+
 We are pleased to invite you to be our guest on The Learning Salon, hosted by Joshua, Ida and John. The Learning Salon is an intellectual gathering where we explore contentions and bridges between biological and artificial learning. Each week we invite a guest to help us uncover core questions that lurk underneath the overwhelming proliferation of approaches to learning and intelligence. 
 
 We envisage a salon that will bring together diverse disciplines and individuals to discuss, debate, and advance the prospects for advancing our fields. We welcome and anticipate ideas and discussions with a wide scope, spanning from machine learning and artificial intelligence to computational, behavioral, and cognitive neuroscience, psychology and cognitive science, and philosophy. 
@@ -13,4 +16,3 @@ We look forward to learning with you,
 The Learning Salon
 
 https://www.worldwideneuro.com/
-https://www.crowdcast.io/e/learningsalon/1
