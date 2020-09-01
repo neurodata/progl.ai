@@ -1,4 +1,4 @@
-The Learning Salon: Sept. 4, 4 pm Eastern, [Crowdcast](https://www.crowdcast.io/e/learningsalon/1)
+The Learning Salon: Fridays starting Sept. 4, 4 pm Eastern, [Crowdcast](https://www.crowdcast.io/e/learningsalon/)
 
 Also [livestreamed](https://www.youtube.com/channel/UCRtCI0-aWSVcS4_qM6yGS7g) to YouTube.
 
@@ -18,3 +18,8 @@ We invite attendants to submit their questions during the talks or email us thei
 We look forward to learning with you,
 
 The Learning Salon
+
+
+Joshua Vogelstein
+Ida Momennejad
+John Krakauer
