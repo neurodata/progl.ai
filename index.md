@@ -20,7 +20,7 @@ We aim for diversity in discussions: in terms of perspective, background, and id
  
 We invite speakers to couch their 15-20 minute presentations in terms of what they regard core questions in learning and intelligence. We discourage standard technical talks that are aimed at a small subset of colleagues in the same subfield. The presentation will be followed by a panel discussion and Q & A. 
 
-We invite attendees to submit their questions during the talks or email us their questions up to a week prior to a given talk at [this form](https://forms.gle/Q3nPb2sToQud4UTi6) or tweeting [#TheLearningSalon](https://twitter.com/search?q=%23TheLearningSalon&src=typed_query).
+We invite attendees to submit their questions during the talks or email us their questions up to a week prior to a given talk at [this form](https://forms.gle/Q3nPb2sToQud4UTi6) or tweeting [#TheLearningSalon](https://twitter.com/search?q=%23TheLearningSalon&src=typed_query). We also welcome general feedback and especially criticism at any time.
 
  
 We look forward to learning with you,
