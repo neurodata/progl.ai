@@ -12,7 +12,7 @@ We aim for diversity in discussions: in terms of perspective, background, and id
  
 We invite speakers to couch their 15-20 minute presentations in terms of what they regard core questions in learning and intelligence. We discourage standard technical talks that are aimed at a small subset of colleagues in the same subfield. The presentation will be followed by a panel discussion and Q & A. 
 
-We invite attendants to submit their questions during the talks or email us their questions up to a week prior to a given talk at [mailto](mailto:jovo@progl.ai).
+We invite attendants to submit their questions during the talks or email us their questions up to a week prior to a given talk at [jovo@progl.ai](mailto:jovo@progl.ai).
 
  
 We look forward to learning with you,
