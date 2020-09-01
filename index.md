@@ -20,6 +20,4 @@ We look forward to learning with you,
 The Learning Salon
 
 
-Joshua Vogelstein
-Ida Momennejad
-John Krakauer
+Joshua Vogelstein, Ida Momennejad, and John Krakauer
