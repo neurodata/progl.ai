@@ -6,9 +6,7 @@ Please join us Fridays @ [4PM Eastern Time](https://greenwichmeantime.com/time/t
 
 ## Schedule
 
-Friday, Sept. 4, 2020, 4 PM ET - [Joshua T. Vogelstein](https://jovo.me/), [Ida Momennejad](https://www.momen-nejad.org/), and [John W. Krakauer](http://blam-lab.org/index.php/people/john-krakauer/)
-
-Friday, Sept. 11, 2020, 4 PM ET - Konrad Kording
+Friday, Sept. 4, 2020, 4 PM ET - Konrad Kording
 
 ## About the Learning Salon
 
