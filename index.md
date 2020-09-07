@@ -6,6 +6,8 @@ Please join us Fridays @ [4PM Eastern Time](https://greenwichmeantime.com/time/t
 
 ## Schedule
 
+Friday, Sept. 11, 2020, 4 PM ET - Adrienne Fairhall
+
 Friday, Sept. 4, 2020, 4 PM ET - Konrad Kording
 
 ## About the Learning Salon
