@@ -6,7 +6,7 @@ Please join us Fridays @ [4PM Eastern Time](https://greenwichmeantime.com/time/t
 
 ## Schedule
 
-Friday, Sept. 25, 2020, 4 PM ET - Anthony Zador - [Paper](https://www.nature.com/articles/s41467-019-11786-6) - [Crowdcast session direct link TBD](https://www.crowdcast.io/e/learningsalon/2)
+Friday, Sept. 25, 2020, 4 PM ET - Anthony Zador - [Paper](https://www.nature.com/articles/s41467-019-11786-6) - [Crowdcast session direct link TBD](https://www.crowdcast.io/e/learningsalon/3)
 
 Friday, Sept. 11, 2020, 4 PM ET - Adrienne Fairhall - [Paper](https://www.sciencedirect.com/science/article/pii/S0959438814000361) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/2)
 
