@@ -16,18 +16,17 @@ Friday, Sept. 4, 2020, 4 PM ET - Konrad Kording - [Paper](https://journals.plos.
 
 ## About the Learning Salon
 
-The Learning Salon is an intellectual gathering where we explore contentions and bridges between biological and artificial learning. Each week we invite a guest to help us uncover core questions that lurk underneath the overwhelming proliferation of approaches to learning and intelligence. 
-
-This salon will bring together diverse disciplines and individuals to discuss, debate, and advance the prospects for advancing our fields. We welcome and anticipate ideas and discussions with a wide scope, spanning from machine learning and artificial intelligence to computational, behavioral, and cognitive neuroscience, psychology and cognitive science, and philosophy. 
+I hope you are doing well in these tumultuous times.  Due to recent events, one thing that we have lost, as a community, is regular conversations with colleagues that push us to think harder, question our philosophies more, and establish stronger bonds across an ever growing community.  This is particularly troubling for the next generation of students, who can still easily attend talks, but now have far less access to participating in discussions about the topics most important to us.   
  
-We aim for diversity in discussions: in terms of perspective, background, and identity. Our goal is to create an atmosphere that encourages vigorous debate while avoiding unnecessary competitiveness; the goal is to learn, not to be correct over outsmarting others. All questions are encouraged and should be answered with respect.
- 
-We invite speakers to couch their 15-20 minute presentations in terms of what they regard core questions in learning and intelligence. We discourage standard technical talks that are aimed at a small subset of colleagues in the same subfield. The presentation will be followed by a panel discussion and Q & A. 
+Therefore, we created At The Learning Salon, a weekly forum in which we explore bridges and contentions in biological and artificial learning. Each week our guest helps us uncover core theories, assumptions, and questions that lurk underneath the overwhelming proliferation of approaches to studying learning and intelligence.
 
-We invite attendees to submit their questions during the talks or email us their questions up to a week prior to a given talk at [this form](https://forms.gle/Q3nPb2sToQud4UTi6) or tweeting [#TheLearningSalon](https://twitter.com/search?q=%23TheLearningSalon&src=typed_query). We also welcome general feedback and especially criticism at any time.
+Humans are often assumed to represent the apex of learning and cognition, and arguably achieving or surpassing human cognitive capacity is the goal of AI. And yet, dogs, rats, flies, and machines can also learn specific tasks, sometimes exceeding human performance. In The Learning Salon, we explore this conundrum by bringing together people with different philosophies, disciplinary backgrounds, and approaches. People at different stages of their careers or outside of academia altogether are equally welcome.
 
- 
-We look forward to learning with you,
+We are pleased to invite you as our guest to share your perspective on this topic for 15-20 minutes. The talks that most engage our audience are not standard technical talks, but rather, one aimed at a diverse group of individuals to provoke interesting discussions about learning and intelligence. Your talk will be followed by a lively panel discussion, in which we vigorously and respectfully debate the topic, while fielding questions from the audience. The learning salon meets weekly on Fridays @ 4PM ET via Crowdcast, and we request that all guests plan to participate for at least 90 minutes. Please send us slides (optional), relevant papers, or background material a week in advance so we can prepare our questions. Please let us know this week if you will be willing to join us this calendar year by filling out the information in [this form](https://docs.google.com/document/d/1OfJ0XP2B_ohJ3GZDPHYvFOLBPZCwW9AJB7oTpV0kYXw/edit?usp=sharing).
 
-The Learning Salon hosts, 
-Jovo ([@neurodata](https://twitter.com/neuro_data)), Ida ([@criticalneuro](https://twitter.com/criticalneuro)), and John ([@BLAM Lab](https://twitter.com/blamlab))
+We look forward to hosting you, 
+
+Ida, John, and Jovo, 
+The Learning Salon.
+
+Ida ([@criticalneuro](https://twitter.com/criticalneuro)), John ([@BLAM Lab](https://twitter.com/blamlab)), and Jovo ([@neurodata](https://twitter.com/neuro_data))
