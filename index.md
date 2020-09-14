@@ -26,7 +26,8 @@ We are pleased to invite you as our guest to share your perspective on this topi
 
 We look forward to hosting you, 
 
-Ida, John, and Jovo, 
+Ida ([@criticalneuro](https://twitter.com/criticalneuro)), John ([@BLAM Lab](https://twitter.com/blamlab)), and Jovo ([@neurodata](https://twitter.com/neuro_data)), 
+
 The Learning Salon.
 
-Ida ([@criticalneuro](https://twitter.com/criticalneuro)), John ([@BLAM Lab](https://twitter.com/blamlab)), and Jovo ([@neurodata](https://twitter.com/neuro_data))
+
