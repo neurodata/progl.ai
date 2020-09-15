@@ -8,7 +8,7 @@ Please join us Fridays @ [4PM Eastern Time](https://greenwichmeantime.com/time/t
 
 Friday, Sept. 25, 2020, 4 PM ET - Anthony Zador - [Paper](https://www.nature.com/articles/s41467-019-11786-6) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/4)
 
-Friday, Sept. 18, 2020, 4 PM ET - Melanie Mitchell - [Book](melaniemitchell.me/aibook/) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/3)
+Friday, Sept. 18, 2020, 4 PM ET - Melanie Mitchell - [Artificial Intelligence Hits the Barrier of Meaning](https://www.nytimes.com/2018/11/05/opinion/artificial-intelligence-machine-learning.html) and [On Crashing the Barrier of Meaning in AI](https://melaniemitchell.me/PapersContent/AIMagazine2020.pdf) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/3)
 
 Friday, Sept. 11, 2020, 4 PM ET - Adrienne Fairhall - [Paper](https://www.sciencedirect.com/science/article/pii/S0959438814000361) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/2)
 
