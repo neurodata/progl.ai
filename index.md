@@ -12,7 +12,7 @@ Friday, Sept. 25, 2020, 4 PM ET - Anthony Zador - [Paper](https://www.nature.com
 
 Friday, Sept. 18, 2020, 4 PM ET - Melanie Mitchell - "The barrier of meaning for AI" - [Artificial Intelligence Hits the Barrier of Meaning](https://www.nytimes.com/2018/11/05/opinion/artificial-intelligence-machine-learning.html) and [On Crashing the Barrier of Meaning in AI](https://melaniemitchell.me/PapersContent/AIMagazine2020.pdf) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/3)
 
-Friday, Sept. 11, 2020, 4 PM ET - Adrienne Fairhall - [Paper](https://www.sciencedirect.com/science/article/pii/S0959438814000361) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/2)
+Friday, Sept. 11, 2020, 4 PM ET - Adrienne Fairhall - "What would it mean to understand the brain?" - [Paper](https://www.sciencedirect.com/science/article/pii/S0959438814000361) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/2)
 
 Friday, Sept. 4, 2020, 4 PM ET - Konrad Kording - [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/1)
 
