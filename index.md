@@ -1,14 +1,22 @@
 ## The Learning Salon
 
 Please join us Fridays @ [4PM Eastern Time](https://greenwichmeantime.com/time/to/eastern-local/). We will be broadcasting via  
-[crowdcast](https://www.crowdcast.io/e/learningsalon/), and livestreaming at the [World Wide Neuro](https://www.youtube.com/channel/UCRtCI0-aWSVcS4_qM6yGS7g) and [Progressive Learning](https://www.youtube.com/channel/UCd1UGOIAuWzVVz0zdXamYsg) YouTube channels.
+[Crowdcast](https://www.crowdcast.io/e/learningsalon/), and livestreaming at the [World Wide Neuro](https://www.youtube.com/channel/UCRtCI0-aWSVcS4_qM6yGS7g) and [Progressive Learning](https://www.youtube.com/channel/UCd1UGOIAuWzVVz0zdXamYsg) YouTube channels.
 
 
 ## Schedule
 
-Friday, Nov. 20, 2020, 4 PM ET - Paul Cisek - "Rethinking behavior in the light of evolution" - [Paper](https://link.springer.com/article/10.3758/s13414-019-01760-1) - Crowdcast session direct link TBA
+Friday, Dec. 4, 2020, 4 PM ET - Mazviita Chirimuuta - "Brain-Machine Analogies" - Crowdcast session direct link TBA
+
+Friday, Nov. 13, 2020, 5 PM ET (Note the later start time!) - Gary Marcus - Crowdcast session direct link TBA
+
+Friday, Oct. 9 (NEW DATE!), 2020, 4 PM ET - Paul Cisek - "Rethinking behavior in the light of evolution" - [Paper](https://link.springer.com/article/10.3758/s13414-019-01760-1) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/6)
+
+Friday, Oct. 2, 2020, 4 PM ET - Marcin Miłkowski - "Why think that the brain is not a computer?" - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/5)
 
 Friday, Sept. 25, 2020, 4 PM ET - Anthony Zador - [Paper](https://www.nature.com/articles/s41467-019-11786-6) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/4)
+
+## Past Salons
 
 Friday, Sept. 18, 2020, 4 PM ET - Melanie Mitchell - "The barrier of meaning for AI" - [Artificial Intelligence Hits the Barrier of Meaning](https://www.nytimes.com/2018/11/05/opinion/artificial-intelligence-machine-learning.html) and [On Crashing the Barrier of Meaning in AI](https://melaniemitchell.me/PapersContent/AIMagazine2020.pdf) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/3)
 
