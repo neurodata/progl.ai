@@ -12,7 +12,7 @@ Friday, Nov. 13, 2020, 5 PM ET (Note the later start time!) - Gary Marcus - Crow
 
 Friday, Oct. 9 (NEW DATE!), 2020, 4 PM ET - Paul Cisek - "Rethinking behavior in the light of evolution" - [Paper](https://link.springer.com/article/10.3758/s13414-019-01760-1) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/6)
 
-Friday, Oct. 2, 2020, 4 PM ET - Marcin Miłkowski - "Why think that the brain is not a computer?" - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/5)
+Friday, Oct. 2, 2020, 4 PM ET - Marcin Miłkowski - "Why think that the brain is not a computer?" - [Paper](https://philpapers.org/rec/MIKWTT) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/5)
 
 Friday, Sept. 25, 2020, 4 PM ET - Anthony Zador - [Paper](https://www.nature.com/articles/s41467-019-11786-6) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/4)
 
