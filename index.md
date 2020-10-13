@@ -10,6 +10,10 @@ Friday, Dec. 4, 2020, 4 PM ET - Mazviita Chirimuuta - "Brain-Machine Analogies" 
 
 Friday, Nov. 13, 2020, 5 PM ET (Note the later start time!) - Gary Marcus - Crowdcast session direct link TBA
 
+Friday, Oct. 23, 2020, 4 PM ET - John Langford - "Ground-up Intelligence" - [Paper 1](https://arxiv.org/abs/1807.06473) - [Paper 2](https://arxiv.org/abs/1911.05815 ) - [Tutorial](http://hunch.net/~rwil) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/8)
+
+Friday, Oct. 16, 2020, 4 PM ET - Recap and Panel Discussion  - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/7)
+
 Friday, Oct. 9 (NEW DATE!), 2020, 4 PM ET - Paul Cisek - "Rethinking behavior in the light of evolution" - [Paper](https://link.springer.com/article/10.3758/s13414-019-01760-1) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/6)
 
 Friday, Oct. 2, 2020, 4 PM ET - Marcin Miłkowski - "Why think that the brain is not a computer?" - [Paper](https://philpapers.org/rec/MIKWTT) - [Crowdcast session direct link](https://www.crowdcast.io/e/learningsalon/5)
